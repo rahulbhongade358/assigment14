@@ -38,6 +38,7 @@ body {
     padding: 18px;
     border-radius: 100px;
     box-shadow: 5px 5px 10px 2px #f84e4e;
+    transition: 2s ease-out;
 }
 
 .info1 {
@@ -59,4 +60,5 @@ body {
         padding: 18px;
         border-radius: 100px;
         box-shadow: -5px 5px 10px 5px #f84e4e;
+        transition: 2s ease-out;
 }
